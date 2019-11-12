@@ -41,7 +41,7 @@ Instead of using a single list, break the tasks up into three sections:
 - Completed
 
 
-HINT: You'll need the delegate method `titleForHeaderInSection` to set the section titles
+HINT: You'll need the datasource method `titleForHeaderInSection` to set the section titles
 HINT: It will help to store an object `tasks` of type `[[Task]]`
 
 ![gifTwo](https://github.com/joinpursuit/Pursuit-Core-iOS-TableView-Introduction-Lab/blob/master/gifs/stepTwoIntroTableViewLab.gif)
